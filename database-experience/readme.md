@@ -116,8 +116,8 @@ _________________________________________
 ### Olá... Meu nome é **Wagner Torres.**
 
 
-<sub><strong>Sou especialista em Bancos de Dados. Trabalhando diaramente com análise de dados, <br>
-criação de dashboards e programação em Python Falo sobre tecnologia no meu [Twitter](https://twitter.com/wagner.siltor).</strong></sub>
+<sub><strong>Sou especialista em bancos de dados. Trabalhando diaramente com análise de dados,
+criação de dashboards e programação em Python. Falo sobre tecnologia no meu [Twitter](https://twitter.com/wagner.siltor).</strong></sub>
 
 
 
