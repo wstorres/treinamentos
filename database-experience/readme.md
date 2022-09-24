@@ -72,13 +72,13 @@ _____________________________________________________________
 
 - ### Desenvolvimento:
 <!--Desenvolvimento do projeto-->
-  - [1. O que é Banco de Dados](./1-oque-e-bd.md)
-  - [2. Tipos de Bancos de Dados](./2tipos-bd.md)
-  - [3. SGBD e Suas Diferenças](./3-sgbd.md)
-  - [4. Linguaguem de Programação SQL](./4-ling-sql.md)
-  - [5. Sistemas Operacionais Linux](./5-inst-linux.md)
-  - [6. Implementação Data Base MySQL](./6-criar-bd-mysql.md)
-  - [7. MYSQL Workbench](./7-instal-workbench.md)
+1. [O que é Banco de Dados](./1-oque-e-bd.md)
+2. [Tipos de Bancos de Dados](./2tipos-bd.md)
+3. [SGBD e Suas Diferenças](./3-sgbd.md)
+4. [Linguaguem de Programação SQL](./4-ling-sql.md)
+5. [Sistemas Operacionais Linux](./5-inst-linux.md)
+6. [Implementação Data Base MySQL](./6-criar-bd-mysql.md)
+7. [MYSQL Workbench](./7-instal-workbench.md)
 
 
 _______________________________________
