@@ -34,7 +34,7 @@ _______________________________
  
 >A proposta deste projeto é os apresentar os conceitos estudados no treinamento de "Data Base Experience" forncedido pela "Digital Innovation One.
 
->Nesse projeto foi abordado conceitos de 1-Bancos de Dados, seus tipos 2-Relacionais (SQL) e Não Relacionais (NoSQL), 3-Sistemas de Gerenciamento de Bancos de Dados (SGBD), 4-linguagens de programação SQL e seus  princiapais comando, 5-Sistema  operacional Linux, 6-Implementação do Data Base MySQL, 7-MySQL WorkBench.
+>Nesse projeto foi abordado conceitos de Bancos de Dados, seus tipos Relacionais (SQL) e Não Relacionais (NoSQL), Sistemas de Gerenciamento de Bancos de Dados (SGBD), linguagens de programação SQL e seus  princiapais comando, Sistema  operacional Linux, Implementação do Data Base MySQL, MySQL WorkBench.
 
 
 _________________________________________
@@ -72,13 +72,13 @@ _____________________________________________________________
 
 - ### Desenvolvimento:
 <!--Desenvolvimento do projeto-->
-  [1. O que é Banco de Dados](./1-oque-e-bd.md)
-  [2. Tipos de Bancos de Dados](./2tipos-bd.md)
-  [3. SGBD e Suas Diferenças](./3-sgbd.md)
-  [4. Linguaguem de Programação SQL](./4-ling-sql.md)
-  [5. Sistemas Operacionais Linux](./5-inst-linux.md)
-  [6. Implementação Data Base MySQL](./6-criar-bd-mysql.md)
-  [7. MYSQL Workbench](./7-instal-workbench.md)
+  - [1. O que é Banco de Dados](./1-oque-e-bd.md)
+  - [2. Tipos de Bancos de Dados](./2tipos-bd.md)
+  - [3. SGBD e Suas Diferenças](./3-sgbd.md)
+  - [4. Linguaguem de Programação SQL](./4-ling-sql.md)
+  - [5. Sistemas Operacionais Linux](./5-inst-linux.md)
+  - [6. Implementação Data Base MySQL](./6-criar-bd-mysql.md)
+  - [7. MYSQL Workbench](./7-instal-workbench.md)
 
 
 _______________________________________
