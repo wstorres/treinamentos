@@ -106,11 +106,12 @@ ________________________________________________
 -->
 _________________________________________
 
+
 ### Autor: 
 
-
-<center>
+<div align="center">
 <img style="border-radius: 65px;" alt="" width="125" height="125" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">
+
 
 ### Olá... Meu nome é **Wagner Torres.**
 
@@ -119,14 +120,16 @@ _________________________________________
 criação de dashboards e programação em Python Falo sobre tecnologia no meu [Twitter](https://twitter.com/wagner.siltor).</strong></sub>
 
 
-<sub> <strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
+
+
+<sub><strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
 [<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/wagner.torres.sp/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wagnersiltor/)
 [<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/wagner.siltor)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wagner.torres.sp/)
 </sub>
-</center>
+
 
 
 <div align="center">
@@ -153,8 +156,3 @@ criação de dashboards e programação em Python Falo sobre tecnologia no meu [
   
   ##
  
-<div> 
-
-
- 
-</div>
