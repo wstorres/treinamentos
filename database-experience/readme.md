@@ -12,57 +12,54 @@
 (NoSQL) no contexto de um Engenheiro de Dados</h2>
 <!--(Obrigatorio)-->
 
-_____________________________________
 
-- ### 🚨 Desafio: 
->
-(Projeto Proposto no treinamento **"Data Base Experience" - Digital Innovation One**).<br /><br />
-Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados. Para isso, anote todos os conceitos, definições e insights que julgar relevantes em um novo repositório Git, aumentando assim seu portfolio de conhecimentos.
+- ### Desafio: 
+>Projeto Proposto no treinamento **"Data Base Experience" - Digital Innovation One**.
 
-Super Dica: Organize tudo em seu README.md, é uma alternativa bem rápida e efetiva, pois, o GitHub provê uma interface bem simples e intuitiva para isso. Além de ampliar seu portifólio de projetos no GitHub!
+>Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados. Para isso, anote todos os conceitos, definições e insights que julgar relevantes em um novo repositório Git, aumentando assim seu portfolio de conhecimentos.
 
-Pré-requisitos:
+>Super Dica: Organize tudo em seu README.md, é uma alternativa bem rápida e efetiva, pois, o GitHub provê uma interface bem simples e intuitiva para isso. Além de ampliar seu portifólio de projetos no GitHub!
 
-Conhecimento Avançados(SQL, NoSQL);
+- Pré-requisitos:
+- Conhecimento Avançados(SQL, NoSQL);
+- Computador com SO de sua preferência(Windows, Linux, Mac OS);
 
-Computador com SO de sua preferência(Windows, Linux, Mac OS);
+>Agora é a sua vez de ser o Protagonista! 🤩
 
-Agora é a sua vez de ser o Protagonista! 🤩
+>Bons estudos! 😉
 
-Bons estudos! 😉
->
 _______________________________
 
-- ### 💡 Objetivos Gerais: <!--Obrigatorio-->
-> 
-A proposta deste projeto é os apresentar os conceitos estudados no treinamento de "Data Base Experience" forncedido pela "Digital Innovation One.
+- ### Objetivos Gerais: <!--Obrigatorio-->
+ 
+>A proposta deste projeto é os apresentar os conceitos estudados no treinamento de "Data Base Experience" forncedido pela "Digital Innovation One.
 
-Nesse projeto foi abordado conceitos de 1-Bancos de Dados, seus tipos 2-Relacionais (SQL) e Não Relacionais (NoSQL), 3-Sistemas de Gerenciamento de Bancos de Dados (SGBD), 4-linguagens de programação SQL e seus  princiapais comando, 5-Sistema  operacional Linux, 6-Implementação do Data Base MySQL, 7-MySQL WorkBench.
->
+>Nesse projeto foi abordado conceitos de 1-Bancos de Dados, seus tipos 2-Relacionais (SQL) e Não Relacionais (NoSQL), 3-Sistemas de Gerenciamento de Bancos de Dados (SGBD), 4-linguagens de programação SQL e seus  princiapais comando, 5-Sistema  operacional Linux, 6-Implementação do Data Base MySQL, 7-MySQL WorkBench.
+
 
 _________________________________________
-- ### 🏁 Índice: <!--OBRIGATORIO PARA PROJETOS--> 
+- ### Índice: <!--OBRIGATORIO PARA PROJETOS--> 
 <!--ts-->
-* [Desafio](###-🚨Desafio:)
-* [Objetivos Gerais](###Objetivos-Gerais)
-* [Tecnologias](#tabela-de-conteudo)
-* [Desenvolvimento](#instalacao)
-  * [1. O que é Banco de Dados](./1-oque-e-bd.md)
-  * [2. Tipos de Bancos de Dados](./2tipos-bd.md)
-  * [3. SGBD e Suas Diferenças](./3-sgbd.md)
-  * [4. Linguaguem de Programação SQL](./4-ling-sql.md)
-  * [5. Sistemas Operacionais Linux](./5-inst-linux.md)
-  * [6. Implementação Data Base MySQL](./6-criar-bd-mysql.md)
-  * [7. MYSQL Workbench](./7-instal-workbench.md)
-* [Como Contribuir](#como-usar)
-* [Licenças](##Licenças)
-* [Autor](##Licenças)
+* [Desafio](#)
+* [Objetivos Gerais](#)
+* [Tecnologias](#)
+* [Desenvolvimento](#)
+  * [O que é Banco de Dados](./1-oque-e-bd.md)
+  * [Tipos de Bancos de Dados](./2tipos-bd.md)
+  * [SGBD e Suas Diferenças](./3-sgbd.md)
+  * [Linguaguem de Programação SQL](./4-ling-sql.md)
+  * [Sistemas Operacionais Linux](./5-inst-linux.md)
+  * [Implementação Data Base MySQL](./6-criar-bd-mysql.md)
+  * [MYSQL Workbench](./7-instal-workbench.md)
+* [Como Contribuir](#)
+* [Licenças](#)
+* [Autor](#)
 <!--te-->
 
 
 _________________________________________________
 
-- ### 🛠 Tecnologias:<!--Obrigatorio para Projetos-->
+- ### Tecnologias:<!--Obrigatorio para Projetos-->
 > As seguintes ferramentas foram usadas na construção do projeto, abaixo os links para downloads:
 
 1. [VMBOX](https://www.virtualbox.org/)
@@ -73,21 +70,21 @@ _________________________________________________
 _____________________________________________________________
 
 
-- ### 💪 Desenvolvimento:
+- ### Desenvolvimento:
 <!--Desenvolvimento do projeto-->
-  - [1. O que é Banco de Dados](./1-oque-e-bd.md)
-  - [2. Tipos de Bancos de Dados](./2tipos-bd.md)
-  - [3. SGBD e Suas Diferenças](./3-sgbd.md)
-  - [4. Linguaguem de Programação SQL](./4-ling-sql.md)
-  - [5. Sistemas Operacionais Linux](./5-inst-linux.md)
-  - [6. Implementação Data Base MySQL](./6-criar-bd-mysql.md)
-  - [7. MYSQL Workbench](./7-instal-workbench.md)
+  [1. O que é Banco de Dados](./1-oque-e-bd.md)
+  [2. Tipos de Bancos de Dados](./2tipos-bd.md)
+  [3. SGBD e Suas Diferenças](./3-sgbd.md)
+  [4. Linguaguem de Programação SQL](./4-ling-sql.md)
+  [5. Sistemas Operacionais Linux](./5-inst-linux.md)
+  [6. Implementação Data Base MySQL](./6-criar-bd-mysql.md)
+  [7. MYSQL Workbench](./7-instal-workbench.md)
 
 
 _______________________________________
 
 
-- ### 💡 Como Contribuir:
+- ### Como Contribuir:
 
 1.  > Faça um fork do projeto.
 2.  > Crie uma nova branch com as suas alterações: git checkout -b my-feature
@@ -96,28 +93,27 @@ _______________________________________
 
 ___________________________________________
 
-- ### ⚠️ Licenças:
+- ### Licenças:
 
 [Acesse a Licença Aqui:](./license.md)
 <!--
 ________________________________________________
 
 
-- ### 📚 Referências:
+- ### Referências  
 
 1. >The Logo?[wagner-logo](#) for [wagner](#).
 -->
 _________________________________________
 
-### 😉 Autor:
+### Autor: 
 
 <center>
 <img style="border-radius: 65px;" alt="" width="125" height="125" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">
 
 #### **Wagner Torres**
 
-<sub><strong>Especialista em Bancos de Dados. Trabalhando diaramente com análise de dados, <br>
-programação em Python e criação de dashboards. Falo sobre tecnologia no meu [Twitter](https://twitter.com/wagner.siltor).</strong></sub>
+<sub><strong>Especialista em Bancos de Dados. Trabalhando diaramente com análise de dados, Bussines Intelligence, criação de Dashboard e programação em Python. Falo sobre tecnologia no meu [Twitter](https://twitter.com/wagner.siltor).</strong></sub>
 
 
 <sub> <strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
