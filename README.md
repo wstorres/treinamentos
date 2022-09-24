@@ -1,7 +1,33 @@
-# treinamentos
+<h1 align="center">Projeto Prático Database Experience</h1>
+
+## 🚀 Tecnologias  
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- MySQL
+- Postgre
+- MongoDB
+- SQL
+- Linux Debian
+___________________________________
 
 
-### Autor: 
+## 📫 Como contribuir
+<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+
+Para contribuir, siga estas etapas:
+
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
+
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+____________________________
+
+
+## Autor: 
 
 <div align="center">
 <img style="border-radius: 65px;" alt="" width="125" height="125" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">
@@ -10,8 +36,7 @@
 ### Olá... Meu nome é **Wagner Torres.**
 
 
-<sub><strong>Sou especialista em bancos de dados. Trabalhando diaramente com análise de dados,
-criação de dashboards e programação em Python. Falo sobre tecnologia no meu [Twitter](https://twitter.com/wagner.siltor).</strong></sub>
+<sub><strong>Sou especialista em bancos de dados. Trabalhando diaramente com análise de dados, criação de dashboards e programação em Python. Falo sobre tecnologia no meu [Twitter](https://twitter.com/wagner.siltor).</strong></sub>
 
 
 
