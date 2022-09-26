@@ -1,4 +1,13 @@
-# GIT
+#### TUTORIAL <!--Obrigatorio-->
+
+<SUB>[GIT](#) | [GITHUB](#) | [TECNOLOGIA](#) |<br /></SUB>
+<sub>Por:<strong> Wagner Torres</strong> | Data: 05/09/2022</sub>
+
+<img style="border-radius: 65px;" alt="" width="30" height="30" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
+
+
+<h2 align="center">GIT - Sistema de Versionamento</h2>
+<!--(Obrigatorio)-->
 
 GIT é um Sistema de Controle de Versões de software Distribuído — ou DVCS, para auxiliar o desenvolvedor na criação de software e o trabalho em equipe.
 
@@ -99,7 +108,11 @@ Além do mais, a inclusão do GitHub ao uso desta ferramenta expande significati
 
             mkdir nomedapasta
 
-##### 2. Para criar um arquivo
+##### 2. Para iniciar o controle de versionamento
+
+            git init 			
+
+##### 3. Para criar um arquivo
 
             touch nomedoarquivo.md   
 
@@ -114,21 +127,17 @@ Além do mais, a inclusão do GitHub ao uso desta ferramenta expande significati
 
             git init
 
-
 ##### 3. Verificar o estados dos arquivos 
 
             git status
-
 
 ##### 4. Para passar a monitorar um novo arquivo
 
             git add .
 
-
 ##### 5. Usar o commit depois de já ter feito o git add:  
 
             git commit -m "argunto do commit'
-
 
 
 ### Remover uma URL remota de Git:
@@ -150,8 +159,6 @@ Resultado:
 
             git remote rm upstream
       
-
-
 ##### 3. Lista remota, notaremos que o upstream é removido
 
             it remote -v
@@ -174,14 +181,11 @@ Resultado:
 
             git remote add origin git@github.com:leocomelli/curso.git
 
-
 ##### 3. Para empurrar os arquivos
 
             git push -u origin main
 
-
 ### Configuração
-
 #### Geral
 
 As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado dentro do diretório do usuário do Sistema Operacional (Ex.: Windows: C:\Users\Documents and Settings\Leonardo ou *nix /home/leonardo).
@@ -191,14 +195,18 @@ As configurações realizadas através dos comandos abaixo serão incluídas no 
 ##### Setar usuário
 	git config --global user.name "Leonardo Comelli"
 
+##### Alterar o user.name 
+	git config --global --replace-all user.name "Wagner Torres"	
+
 ##### Setar email
 	git config --global user.email leonardo@software-ltda.com.br
+
 	
 ##### Setar editor
-	git config --global core.editor vim
+	git config --global core.editor "vim"
 	
 ##### Setar ferramenta de merge
-	git config --global merge.tool vimdiff
+	git config --global merge.tool "vimdiff"
 
 ##### Setar arquivos a serem ignorados
 	git config --global core.excludesfile ~/.gitignore
@@ -333,12 +341,9 @@ Se o resultado abaixo for exibido, o comando reset *não* alterou o diretório d
 	Unstaged changes after reset:
 	M	meu_arquivo.txt
 
-A alteração do diretório pode ser realizada através do comando abaixo:
+##### A alteração do diretório pode ser realizada através do comando abaixo:
 	
 	git checkout meu_arquivo.txt
-
-## Repositório Remoto
-
 ### Exibir os repositórios remotos
 	
 	git remote -v
@@ -489,7 +494,7 @@ A mensagem indicando um *merge* manual será:
 
 	git push origin:bug-123
 
-### Rebasing
+##### Rebasing
 
 Fazendo o **rebase** entre um o branch bug-123 e o master.
 
@@ -500,7 +505,7 @@ Fazendo o **rebase** entre um o branch bug-123 e o master.
 
 Mais informações e explicações sobre o [Rebasing](http://git-scm.com/book/en/Git-Branching-Rebasing)
 
-###Stash
+##### Stash
 
 Para alternar entre um branch e outro é necessário fazer o commit das alterações atuais para depois trocar para um outro branch. Se existir a necessidade de realizar a troca sem fazer o commit é possível criar um **stash**. O Stash como se fosse um branch temporário que contem apenas as alterações ainda não commitadas.
 
