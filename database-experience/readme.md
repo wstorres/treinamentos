@@ -2,21 +2,23 @@
 <SUB>[DATABASE](#) | [SQL](#) | [NoSQL](#) |</SUB>
 
 ##### 1. Autor
-<sub>Por:<strong> Wagner Torres</strong> | Data: 23/09/2022</sub>
+
 <br />
 <img style="border-radius: 50%;" alt="" width="35" height="35" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
+<sub>Por:<strong> Wagner Torres</strong> | Data: 23/09/2022</sub>
 
 <br />
 <br />
 
 ### 2. Projeto Prático:
 
+Projeto Proposto no treinamento **"Bootcamp Database Experience" - Digital Innovation One**.
+
 <h2 align="center">Bancos de Dados Relacionais (SQL) e Não Relacionais 
 (NoSQL) no contexto de um Engenheiro de Dados
 </h2>
 <!--(Obrigatorio)-->
 
-Projeto Proposto no treinamento **"Bootcamp Database Experience" - Digital Innovation One**.
 
 ### 3. Desafio: 
 
@@ -43,7 +45,7 @@ Nesse projeto foi abordado conceitos de Bancos de Dados, seus tipos Relacionais 
 
 ### 5. Tecnologias:<!--Obrigatorio para Projetos-->
 
-**_As seguintes ferramentas foram usadas na construção do projeto, abaixo os links para downloads:_**
+_As seguintes ferramentas foram usadas na construção do projeto, abaixo os links para downloads:_
 
 1. [VMBOX](https://www.virtualbox.org/)
 2. [MYSQL WORKBENCH](https://dev.mysql.com/downloads/workbench/)
@@ -86,7 +88,7 @@ Acesse a Licença [**Aqui:**](./license.md)
 
 ### 9. Referências  
 
-1. **_Digital Innovation One_**[DIO](http://dio.me/)
+1. [**_Digital Innovation One_**](http://dio.me/)
 
 
 
