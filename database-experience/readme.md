@@ -4,6 +4,7 @@
 ##### 1. Autor
 
 <img style="border-radius: 50%;" alt="" width="35" height="35" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
+<sub>Por:<strong> Wagner Torres</strong> | Data: 23/09/2022</sub>
 
 <br />
 <br />
