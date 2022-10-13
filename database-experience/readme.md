@@ -3,20 +3,20 @@
 
 ##### 1. Autor
 
-<img style="border-radius: 50%;" alt="" width="35" height="35" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
 <sub>Por:<strong> Wagner Torres</strong> | Data: 23/09/2022</sub>
+<img style="border-radius: 50%;" alt="" width="35" height="35" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
 
 <br />
 <br />
 
 ### 2. Projeto Prático:
 
-Projeto Proposto no treinamento **"Bootcamp Database Experience" - Digital Innovation One**.
-
 <h2 align="center">Bancos de Dados Relacionais (SQL) e Não Relacionais 
 (NoSQL) no contexto de um Engenheiro de Dados
 </h2>
 <!--(Obrigatorio)-->
+
+> Projeto Proposto no treinamento **"Bootcamp Database Experience" - Digital Innovation One**.
 
 
 ### 3. Desafio: 
