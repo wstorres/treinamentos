@@ -25,7 +25,6 @@ border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4
 <br />
 
 
-
 <h2 align="center">GIT - Sistema de Versionamento</h2>
 <!--(Obrigatorio)-->
 
