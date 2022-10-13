@@ -1,25 +1,44 @@
 ##### LABORATÓRIO<!--Obrigatorio-->
 <SUB>[DATABASE](#) | [SQL](#) | [NoSQL](#) |</SUB>
 
-##### 1. Autor
 
-<sub>Por:<strong> Wagner Torres</strong> | Data: 23/09/2022</sub>
-<img style="border-radius: 50%;" alt="" width="35" height="35" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
+<div class="social social-user" align="right" width-full border color-bg-default>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=(https://github.com/wstorres))](https://github.com/wstorres) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wstorres/)](https://www.linkedin.com/in/wstorres/)
+</div>
+
+
+<div class="avatar avatar-user width-full border color-bg-default">
+<img align="left" width="65" height="65" style="border-radius: 65px" 
+border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4">
+</div>
+
+
+<div class="nome nome-user" align="left"> 
+
+**About me**
+<sub><strong>Wagner Torres</strong> | 12 Out 2022</sub>
+</div>
+
 
 <br />
 <br />
 
-### 2. Projeto Prático:
 
 <h2 align="center">Bancos de Dados Relacionais (SQL) e Não Relacionais 
 (NoSQL) no contexto de um Engenheiro de Dados
 </h2>
 <!--(Obrigatorio)-->
 
-> Projeto Proposto no treinamento **"Bootcamp Database Experience" - Digital Innovation One**.
+### 1. Objetivo
 
 
-### 3. Desafio: 
+A proposta deste projeto é os apresentar os conceitos estudados no treinamento de "Data Base Experience" forncedido pela "Digital Innovation One.
+
+Nesse projeto foi abordado conceitos de Bancos de Dados, seus tipos Relacionais (SQL) e Não Relacionais (NoSQL), Sistemas de Gerenciamento de Bancos de Dados (SGBD), linguagens de programação SQL e seus  princiapais comando, Sistema  operacional Linux, Implementação do Data Base MySQL, MySQL WorkBench.
+
+
+### 2. Desafio: 
 
 Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados. Para isso, anote todos os conceitos, definições e insights que julgar relevantes em um novo repositório Git, aumentando assim seu portfolio de conhecimentos.
 
@@ -35,14 +54,7 @@ Agora é a sua vez de ser o Protagonista! 🤩
 Bons estudos! 😉
 
 
-### 4. Objetivos Gerais: <!--Obrigatorio-->
- 
-A proposta deste projeto é os apresentar os conceitos estudados no treinamento de "Data Base Experience" forncedido pela "Digital Innovation One.
-
-Nesse projeto foi abordado conceitos de Bancos de Dados, seus tipos Relacionais (SQL) e Não Relacionais (NoSQL), Sistemas de Gerenciamento de Bancos de Dados (SGBD), linguagens de programação SQL e seus  princiapais comando, Sistema  operacional Linux, Implementação do Data Base MySQL, MySQL WorkBench.
-
-
-### 5. Tecnologias:<!--Obrigatorio para Projetos-->
+### 3. Tecnologias:<!--Obrigatorio para Projetos-->
 
 _As seguintes ferramentas foram usadas na construção do projeto, abaixo os links para downloads:_
 
@@ -52,7 +64,7 @@ _As seguintes ferramentas foram usadas na construção do projeto, abaixo os lin
 4. [POSTGRE](https://www.postgresql.org/download/)
    
    
-### 6. Desenvolvimento:
+### 4. Desenvolvimento:
 <!--ts-->
 1. [Autor](Autor)
 2. [Projeto Prático](#projeto-prático)
@@ -72,7 +84,7 @@ _As seguintes ferramentas foram usadas na construção do projeto, abaixo os lin
 9. [Referências](#) 
 <!--te-->
 
-### 7. Como Contribuir:
+### 5. Como Contribuir:
 
 1.  Faça um fork do projeto.
 2.  Crie uma nova branch com as suas alterações: git checkout -b my-feature
@@ -80,12 +92,12 @@ _As seguintes ferramentas foram usadas na construção do projeto, abaixo os lin
 4.  Envie as suas alterações: git push origin my-feature
 
 
-### 8. Licença:
+### 6. Licença:
 
 Acesse a Licença [**Aqui:**](./license.md)
 
 
-### 9. Referências  
+### 7. Referências  
 
 1. [**_Digital Innovation One_**](http://dio.me/)
 
