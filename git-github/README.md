@@ -119,7 +119,6 @@ Por ser o mais rápido controle de versionamentos existente hoje no mercado, o G
 Além do mais, a inclusão do GitHub ao uso desta ferramenta expande significativamente o leque de possibilidades que ela oferece, dando a jovens programadores e programadoras a oportunidade de interagir e observar projetos de profissionais mais experientes na área.
    
 
-
 ------------------------------------------------
 ### Alguns Procedimentos mais usados
 #### 1. Para criar uma pasta
